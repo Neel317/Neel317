@@ -11,7 +11,7 @@
 ### <div align="center">I'm Neel, a Software developer 👨‍💻 learning and making projects🚀</div>  
   
 
-- 🌱 I’m currently learning Data Structures and Algorithms  
+- 🌱 I’m currently learning Distributed Systems and System Design  
   
 
 - ❓ Ask me about anything related to MERN stack.  
